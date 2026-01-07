@@ -20,9 +20,11 @@ I enjoy building systems where correctness, ordering, and state matter.
 
 ---
 
-### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=lucifercodess&show_icons=true&theme=dark)
+## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifercodess&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucifercodess&show_icons=true&theme=dark)
 
-![Streak](https://streak-stats.demolab.com?user=lucifercodess&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifercodess&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lucifercodess&theme=dark)
+
