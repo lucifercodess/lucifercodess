@@ -1,6 +1,6 @@
 ## Hey 👋 I'm Ayush
 
-Founding Engineer working on backend, distributed systems, and AI-powered products.  
+Founding Engineer working on Frontend, backend, distributed systems, and AI-powered products.  
 I enjoy building systems where correctness, ordering, and state matter.
 
 ---
