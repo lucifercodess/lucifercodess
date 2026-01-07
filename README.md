@@ -7,6 +7,7 @@ I enjoy building systems where correctness, ordering, and state matter.
 
 ### What I work on
 - Event-driven systems (Kafka, Redis)
+- Frontend(React, Javascript)
 - Backend & APIs (FastAPI, Node.js, Express)
 - AI systems (LLMs, RAG pipelines)
 - Real-time & data-heavy applications
